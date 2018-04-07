@@ -97,7 +97,7 @@ This dictionary puts everything together. It will be read by the Flask app when
 it is instantiated.
 """
 default_data = {
-    'site_title' : 'Responsive Resume/CV Template for DevelopersResponsive Resume/CV Template for Developers',
+    'site_title' : 'Responsive Resume/CV Template for Developers',
     'name' : 'Alan Doe',
     'tagline' : 'Full Stack Developer',
     'email' : 'alan.doe@website.com',
