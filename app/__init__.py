@@ -1,6 +1,6 @@
 from flask import Flask, render_template
 from flask_bootstrap import Bootstrap
-from .settings import default_data
+from .defaults import default_data
 
 bootstrap = Bootstrap()
 
